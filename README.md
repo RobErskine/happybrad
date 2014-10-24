@@ -5,7 +5,7 @@ Add a Happy Rob Dashboard Widget.
 ## Installation
 1. Move the `happyrob` directory into your `craft/plugins` directory.
 2. Go to Settings &gt; Plugins from your Craft control panel and enable the `happyrob` plugin
-3. Go to your Dashboard, click the Gear, click "+ New Widget", and choose the type of "HappyBrad"
+3. Go to your Dashboard, click the Gear, click "+ New Widget", and choose the type of "HappyRob"
 4. Hit Save, and return to your dashboard
 5. Enjoy your life
 
