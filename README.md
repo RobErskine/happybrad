@@ -9,4 +9,4 @@ Add a Happy Rob Dashboard Widget.
 4. Hit Save, and return to your dashboard
 5. Enjoy your life
 
-![Screenshot](http://cl.ly/image/2Z140G2a3q0q/Screen%20Shot%202014-10-24%20at%2010.28.36%20AM.png)
+![Screenshot](http://cl.ly/image/3A2p2V2W302A/Screen%20Shot%202014-10-24%20at%2010.38.12%20AM.png)
