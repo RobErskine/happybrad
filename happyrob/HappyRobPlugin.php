@@ -2,11 +2,11 @@
 
 namespace Craft;
 
-class HappyBradPlugin extends BasePlugin
+class HappyRobPlugin extends BasePlugin
 {
 	public function getName()
 	{
-		 return Craft::t('HappyBrad');
+		 return Craft::t('HappyRob');
 	}
 
 	public function getVersion()
@@ -16,11 +16,11 @@ class HappyBradPlugin extends BasePlugin
 
 	public function getDeveloper()
 	{
-		return 'ninetwelve (Matt Stauffer)';
+		return 'roberskine';
 	}
 
 	public function getDeveloperUrl()
 	{
-		return 'http://ninetwelve.co/';
+		return 'http://roberskine.com/';
 	}
 }
